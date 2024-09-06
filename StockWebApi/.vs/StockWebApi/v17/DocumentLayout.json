@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ajay.bohra\\source\\repos\\StockWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1C550B-10F1-47AB-831E-DB88DC8B8AFE}|StockWebApi\\StockWebApi.csproj|c:\\users\\ajay.bohra\\source\\repos\\stockwebapi\\stockwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1C550B-10F1-47AB-831E-DB88DC8B8AFE}|StockWebApi\\StockWebApi.csproj|solutionrelative:stockwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1C550B-10F1-47AB-831E-DB88DC8B8AFE}|StockWebApi\\StockWebApi.csproj|c:\\users\\ajay.bohra\\source\\repos\\stockwebapi\\stockwebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1C550B-10F1-47AB-831E-DB88DC8B8AFE}|StockWebApi\\StockWebApi.csproj|solutionrelative:stockwebapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1C550B-10F1-47AB-831E-DB88DC8B8AFE}|StockWebApi\\StockWebApi.csproj|c:\\users\\ajay.bohra\\source\\repos\\stockwebapi\\stockwebapi\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B1C550B-10F1-47AB-831E-DB88DC8B8AFE}|StockWebApi\\StockWebApi.csproj|solutionrelative:stockwebapi\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.bohra\\source\\repos\\StockWebApi\\StockWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "StockWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\ajay.bohra\\source\\repos\\StockWebApi\\StockWebApi\\Program.cs",
+              "RelativeToolTip": "StockWebApi\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T10:13:31.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.bohra\\source\\repos\\StockWebApi\\StockWebApi\\Dtos\\Account\\LoginDto.cs",
+              "RelativeDocumentMoniker": "StockWebApi\\Dtos\\Account\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ajay.bohra\\source\\repos\\StockWebApi\\StockWebApi\\Dtos\\Account\\LoginDto.cs",
+              "RelativeToolTip": "StockWebApi\\Dtos\\Account\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:47:23.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ajay.bohra\\source\\repos\\StockWebApi\\StockWebApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "StockWebApi\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ajay.bohra\\source\\repos\\StockWebApi\\StockWebApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "StockWebApi\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowC4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:45:46.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
